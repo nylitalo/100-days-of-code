@@ -11,9 +11,10 @@
 
 ### Day 1: November 13, 2017
 **Today's Progress**:
-/*Add todays progress on that here...*/
+I have created a breakdown for how the app will work. and I have setup the project.
+Next up is to create the landing page which will havea button to create your first quiz
 
-**Thoughts:**: Commited to the 100 days of code challenge. My goal is to get better at TypeScript and React together. I will start by creating a "better" version of my local pizzerias website. 
+**Thoughts:**: Commited to the 100 days of code challenge. My goal is to get better at TypeScript and React together. I will start by creating a quiz maker app
 
 **Link to work:**: 
-/*Create a repo for the project and add the link to it here...*/
+https://github.com/nylitalo/quiz-maker
