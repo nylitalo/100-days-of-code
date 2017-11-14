@@ -18,3 +18,14 @@ Next up is to create the landing page which will havea button to create your fir
 
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
+
+
+### Day 2: November 14, 2017
+
+**Today's Progress**: 
+Started today by redoing some parts of the project setup so that I have hot reloading and other amenities.
+Planned out some of the key pages involved. tomorrow i will lay down some code.
+**Thoughts:**:
+So far so good. Even though I'm eager to get coding, I feel that having some sort of plan on what i need to do will help me down the road. I will not spend too much time planning, so I have decided that today was enough and I have what i need to get started.
+**Link to work:**: 
+https://github.com/nylitalo/quiz-maker
