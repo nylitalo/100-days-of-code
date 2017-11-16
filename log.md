@@ -31,7 +31,7 @@ So far so good. Even though I'm eager to get coding, I feel that having some sor
 https://github.com/nylitalo/quiz-maker
 
 
-### Day 0: November 15, 2017
+### Day 3: November 15, 2017
 
 **Today's Progress**: 
 I have created the Home compenent.
@@ -40,5 +40,15 @@ As soon as there are quizzes to join I will make the button work :D
 Next up is to create the NewQuiz compoenent.
 **Thoughts:**:
 So far so good. I feel that the ground work I did on day 2 is paying off. Already looking forward to tomorrows session.
+**Link to work:**: 
+https://github.com/nylitalo/quiz-maker
+
+
+### Day 4: November 16, 2017
+
+**Today's Progress**: 
+Got a late start today but managed to start working on the CreateNewQuiz componenet. 
+**Thoughts:**:
+Need to come up with a good way of adding answers to a question.
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
