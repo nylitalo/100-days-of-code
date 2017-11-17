@@ -52,3 +52,14 @@ Got a late start today but managed to start working on the CreateNewQuiz compone
 Need to come up with a good way of adding answers to a question.
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
+
+
+### Day 5: November 17, 2017
+
+**Today's Progress**: 
+implement functionallity for adding a question to the quiz and storing each individual questions state.
+**Thoughts:**:
+This was a fun challenge. Adding new objects to the quizzes array was no problem, but then updating the the objects key:value inside that array living in the state was a challenge that i eventually beat.
+Still have some cleaning up to do, but will save that for breakfast.
+**Link to work:**:
+https://github.com/nylitalo/quiz-maker
