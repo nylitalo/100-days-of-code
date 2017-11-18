@@ -63,3 +63,14 @@ This was a fun challenge. Adding new objects to the quizzes array was no problem
 Still have some cleaning up to do, but will save that for breakfast.
 **Link to work:**:
 https://github.com/nylitalo/quiz-maker
+
+
+### Day 6: November 18, 2017
+
+**Today's Progress**: 
+Done some cleaning and started breaking a part the CreateNewQuiz componenent into smalle components.
+
+**Thoughts:**:
+Want to commit and report before end of day but will probably do some more work tonight since its Saturday ;)
+**Link to work:**: 
+https://github.com/nylitalo/quiz-maker
