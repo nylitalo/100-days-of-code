@@ -74,3 +74,14 @@ Done some cleaning and started breaking a part the CreateNewQuiz componenent int
 Want to commit and report before end of day but will probably do some more work tonight since its Saturday ;)
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
+
+
+### Day 7: November 19, 2017
+
+**Today's Progress**: 
+Today all I had time for was cleaning up some any types. Did not figure out how to type cast an array.map paramer. Will have to google harder tomorrow. 
+But first up tomorrow is Redux
+**Thoughts:**:
+Types are killing me...
+**Link to work:**: 
+https://github.com/nylitalo/quiz-maker
