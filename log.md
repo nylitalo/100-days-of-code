@@ -85,3 +85,15 @@ But first up tomorrow is Redux
 Types are killing me...
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
+
+
+### Day 8: November 21, 2017
+
+**Today's Progress**: 
+Missed yesterday due to being too tired. 
+Today I started adding redux. It's a challenge, but im getting there, would have wished to be able to wrap it up before turning in, but it will have to wait until tomorrow.
+**Thoughts:**:
+
+**Link to work:**: 
+https://github.com/nylitalo/quiz-maker
+
