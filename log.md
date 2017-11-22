@@ -97,3 +97,11 @@ Today I started adding redux. It's a challenge, but im getting there, would have
 **Link to work:**: 
 https://github.com/nylitalo/quiz-maker
 
+
+### Day 9: November 22, 2017
+
+**Today's Progress**: 
+Not much done today. Had to roll back most of my redux implementation as it had become an unreadalbe mess that didnt work. Need to readjust and try to implment it as clean and simple as possible.
+**Thoughts:**:
+Not a good day today. Last day at the office so alot on my mind. Going out for beers later with friends though. Tomorrow I'm flying to Thailand for a 10 day vacation. I will do my best to deliver daily commits.
+**Link to work:**: 
